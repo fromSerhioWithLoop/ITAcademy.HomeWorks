@@ -1,0 +1,7 @@
+D:\for git\repos\ITAcademy.HomeWorks\ITAcademy.HomeWorks\hw11\hw11\bin\Debug\hw11.exe.config
+D:\for git\repos\ITAcademy.HomeWorks\ITAcademy.HomeWorks\hw11\hw11\bin\Debug\hw11.exe
+D:\for git\repos\ITAcademy.HomeWorks\ITAcademy.HomeWorks\hw11\hw11\bin\Debug\hw11.pdb
+D:\for git\repos\ITAcademy.HomeWorks\ITAcademy.HomeWorks\hw11\hw11\obj\Debug\hw11.csprojAssemblyReference.cache
+D:\for git\repos\ITAcademy.HomeWorks\ITAcademy.HomeWorks\hw11\hw11\obj\Debug\hw11.csproj.CoreCompileInputs.cache
+D:\for git\repos\ITAcademy.HomeWorks\ITAcademy.HomeWorks\hw11\hw11\obj\Debug\hw11.exe
+D:\for git\repos\ITAcademy.HomeWorks\ITAcademy.HomeWorks\hw11\hw11\obj\Debug\hw11.pdb
