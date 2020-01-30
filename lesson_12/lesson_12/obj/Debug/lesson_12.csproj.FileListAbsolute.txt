@@ -1,0 +1,6 @@
+D:\for git\repos\ITAcademy.HomeWorks\ITAcademy.HomeWorks\lesson_12\lesson_12\bin\Debug\lesson_12.exe.config
+D:\for git\repos\ITAcademy.HomeWorks\ITAcademy.HomeWorks\lesson_12\lesson_12\bin\Debug\lesson_12.exe
+D:\for git\repos\ITAcademy.HomeWorks\ITAcademy.HomeWorks\lesson_12\lesson_12\bin\Debug\lesson_12.pdb
+D:\for git\repos\ITAcademy.HomeWorks\ITAcademy.HomeWorks\lesson_12\lesson_12\obj\Debug\lesson_12.csproj.CoreCompileInputs.cache
+D:\for git\repos\ITAcademy.HomeWorks\ITAcademy.HomeWorks\lesson_12\lesson_12\obj\Debug\lesson_12.exe
+D:\for git\repos\ITAcademy.HomeWorks\ITAcademy.HomeWorks\lesson_12\lesson_12\obj\Debug\lesson_12.pdb
