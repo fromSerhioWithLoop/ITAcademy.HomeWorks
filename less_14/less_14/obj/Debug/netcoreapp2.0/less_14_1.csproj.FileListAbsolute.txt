@@ -8,3 +8,4 @@ D:\for git\repos\ITAcademy.HomeWorks\ITAcademy.HomeWorks\less_14\less_14\obj\Deb
 D:\for git\repos\ITAcademy.HomeWorks\ITAcademy.HomeWorks\less_14\less_14\obj\Debug\netcoreapp2.0\less_14_1.AssemblyInfo.cs
 D:\for git\repos\ITAcademy.HomeWorks\ITAcademy.HomeWorks\less_14\less_14\obj\Debug\netcoreapp2.0\less_14_1.dll
 D:\for git\repos\ITAcademy.HomeWorks\ITAcademy.HomeWorks\less_14\less_14\obj\Debug\netcoreapp2.0\less_14_1.pdb
+D:\for git\repos\ITAcademy.HomeWorks\ITAcademy.HomeWorks\less_14\less_14\obj\Debug\netcoreapp2.0\less_14_1.csprojAssemblyReference.cache
