@@ -9,3 +9,6 @@ D:\for git\repos\ITAcademy.HomeWorks\ITAcademy.HomeWorks\hw_12\hw_12\obj\Debug\n
 D:\for git\repos\ITAcademy.HomeWorks\ITAcademy.HomeWorks\hw_12\hw_12\obj\Debug\netcoreapp2.0\hw_12.AssemblyInfo.cs
 D:\for git\repos\ITAcademy.HomeWorks\ITAcademy.HomeWorks\hw_12\hw_12\obj\Debug\netcoreapp2.0\hw_12.dll
 D:\for git\repos\ITAcademy.HomeWorks\ITAcademy.HomeWorks\hw_12\hw_12\obj\Debug\netcoreapp2.0\hw_12.pdb
+D:\for git\repos\ITAcademy.HomeWorks\ITAcademy.HomeWorks\hw_12\hw_12\bin\Debug\netcoreapp2.0\BaseLib.dll
+D:\for git\repos\ITAcademy.HomeWorks\ITAcademy.HomeWorks\hw_12\hw_12\bin\Debug\netcoreapp2.0\BaseLib.pdb
+D:\for git\repos\ITAcademy.HomeWorks\ITAcademy.HomeWorks\hw_12\hw_12\obj\Debug\netcoreapp2.0\hw_12.csproj.CopyComplete

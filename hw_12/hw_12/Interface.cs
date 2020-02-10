@@ -14,7 +14,7 @@ namespace hw_12
     public class InterfaceEngine
     {
         private string Answer { get; set; }
-
+        //
         public enum PageList //when add page -- creat grafPage in Console.cs and add this grafPage in BookDialog() 
         {
             startPage,
@@ -23,23 +23,25 @@ namespace hw_12
             updateMotoPage,
             deleteMotoPage
         }
+        //
         public string BookSetter(PageList pagelist)//used for overload input parametrs for BookSetPage 
         {
             Motocycle moto = null;
-            Motocycle[] motoBase = null;
+            List<Motocycle> motoBase = null;
             return BookDialog(pagelist,moto,motoBase);
         }
-        public string BookSetter(PageList pagelist, Motocycle[] motoBase)//overload 2
+        public string BookSetter(PageList pagelist, List<Motocycle> motoBase)//overload 2
         {
             Motocycle moto = null;
             return BookDialog(pagelist,moto, motoBase);
         }
         public string BookSetter(PageList pagelist, Motocycle moto)//overload 3
         {
-            Motocycle[] motoBase = null;
+            List<Motocycle> motoBase = null;
             return BookDialog(pagelist,moto, motoBase);
         }
-        public string BookDialog(PageList pageList,Motocycle moto,Motocycle[] motoBase) //output graf and RETURN answer from console!!!
+        //
+        public string BookDialog(PageList pageList,Motocycle moto,List<Motocycle> motoBase) //output graf and RETURN answer from console!!!
         {
             ConsoleBook book = new ConsoleBook();
             Graf graf = new Graf();
@@ -52,12 +54,16 @@ namespace hw_12
                     book.MenuPage(ref graf); break;
                 case PageList.addMotoPage:
                     book.AddMotoPage(ref graf); break;
+                case PageList.deleteMotoPage:
+                    book.DeleteMotoPage(ref graf);break;
+                case PageList.updateMotoPage:
+                    book.UpdateMotoPage(ref graf);break;
                 default: break;
             }
             answer = OutputFunc(graf,motoBase);
             return answer;
         }
-        public string OutputFunc(Graf graf,Motocycle[] motoBase)
+        public string OutputFunc(Graf graf,List<Motocycle> motoBase)
         {
             Console.Clear();
             string PrintConsole = graf.OutputGraf();
@@ -70,7 +76,7 @@ namespace hw_12
                 {
                     //Motocycle m = new Motocycle();
                     //List<string> m = new List<string>(item as string);
-                    Console.WriteLine($"\t{count}. ID: {moto.ID}\t Brand: {moto.Name}\t Model: {moto.Name}" +
+                    Console.WriteLine($"\t{count}. ID: {moto.ID}\t Brand: {moto.Name}\t Model: {moto.Model}" +
                                         $"\t Year: {moto.Year}\t Mileage: {moto.Odometr}");
                     count++;
                 }
@@ -78,6 +84,5 @@ namespace hw_12
             string answer = Console.ReadLine();
             return answer;
         }
-
     }
 }

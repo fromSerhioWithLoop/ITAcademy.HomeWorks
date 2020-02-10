@@ -1,0 +1,8 @@
+D:\for git\repos\ITAcademy.HomeWorks\ITAcademy.HomeWorks\hw_12\BaseLib\bin\Debug\netcoreapp2.0\BaseLib.deps.json
+D:\for git\repos\ITAcademy.HomeWorks\ITAcademy.HomeWorks\hw_12\BaseLib\bin\Debug\netcoreapp2.0\BaseLib.dll
+D:\for git\repos\ITAcademy.HomeWorks\ITAcademy.HomeWorks\hw_12\BaseLib\bin\Debug\netcoreapp2.0\BaseLib.pdb
+D:\for git\repos\ITAcademy.HomeWorks\ITAcademy.HomeWorks\hw_12\BaseLib\obj\Debug\netcoreapp2.0\BaseLib.csproj.CoreCompileInputs.cache
+D:\for git\repos\ITAcademy.HomeWorks\ITAcademy.HomeWorks\hw_12\BaseLib\obj\Debug\netcoreapp2.0\BaseLib.AssemblyInfoInputs.cache
+D:\for git\repos\ITAcademy.HomeWorks\ITAcademy.HomeWorks\hw_12\BaseLib\obj\Debug\netcoreapp2.0\BaseLib.AssemblyInfo.cs
+D:\for git\repos\ITAcademy.HomeWorks\ITAcademy.HomeWorks\hw_12\BaseLib\obj\Debug\netcoreapp2.0\BaseLib.dll
+D:\for git\repos\ITAcademy.HomeWorks\ITAcademy.HomeWorks\hw_12\BaseLib\obj\Debug\netcoreapp2.0\BaseLib.pdb

@@ -196,16 +196,6 @@
         "build": {
           "build/netstandard2.0/NETStandard.Library.targets": {}
         }
-      },
-      "BaseLib/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v2.0",
-        "compile": {
-          "bin/placeholder/BaseLib.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/BaseLib.dll": {}
-        }
       }
     }
   },
@@ -666,16 +656,10 @@
         "netstandard.library.2.0.0.nupkg.sha512",
         "netstandard.library.nuspec"
       ]
-    },
-    "BaseLib/1.0.0": {
-      "type": "project",
-      "path": "../BaseLib/BaseLib.csproj",
-      "msbuildProject": "../BaseLib/BaseLib.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.0": [
-      "BaseLib >= 1.0.0",
       "Microsoft.NETCore.App >= 2.0.0"
     ]
   },
@@ -686,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\for git\\repos\\ITAcademy.HomeWorks\\ITAcademy.HomeWorks\\hw_12\\hw_12\\hw_12.csproj",
-      "projectName": "hw_12",
-      "projectPath": "D:\\for git\\repos\\ITAcademy.HomeWorks\\ITAcademy.HomeWorks\\hw_12\\hw_12\\hw_12.csproj",
+      "projectUniqueName": "D:\\for git\\repos\\ITAcademy.HomeWorks\\ITAcademy.HomeWorks\\hw_12\\BaseLib\\BaseLib.csproj",
+      "projectName": "BaseLib",
+      "projectPath": "D:\\for git\\repos\\ITAcademy.HomeWorks\\ITAcademy.HomeWorks\\hw_12\\BaseLib\\BaseLib.csproj",
       "packagesPath": "C:\\Users\\SergeyG\\.nuget\\packages\\",
-      "outputPath": "D:\\for git\\repos\\ITAcademy.HomeWorks\\ITAcademy.HomeWorks\\hw_12\\hw_12\\obj\\",
+      "outputPath": "D:\\for git\\repos\\ITAcademy.HomeWorks\\ITAcademy.HomeWorks\\hw_12\\BaseLib\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -708,11 +692,7 @@
       },
       "frameworks": {
         "netcoreapp2.0": {
-          "projectReferences": {
-            "D:\\for git\\repos\\ITAcademy.HomeWorks\\ITAcademy.HomeWorks\\hw_12\\BaseLib\\BaseLib.csproj": {
-              "projectPath": "D:\\for git\\repos\\ITAcademy.HomeWorks\\ITAcademy.HomeWorks\\hw_12\\BaseLib\\BaseLib.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {
@@ -725,6 +705,7 @@
       "netcoreapp2.0": {
         "dependencies": {
           "Microsoft.NETCore.App": {
+            "suppressParent": "All",
             "target": "Package",
             "version": "[2.0.0, )",
             "autoReferenced": true

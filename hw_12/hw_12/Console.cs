@@ -38,8 +38,19 @@ namespace hw_12
             graf.FifthLine = "\n\t\t  ID\tBrand\tModel\tYear\tOdometr";
             graf.SixthLine = "\n\t\t If you have no info obout any position enter \"-\" ";
         }
-    }
+        public void DeleteMotoPage(ref Graf graf)
+        {
+            graf.ThirdLine = "\n\t\t\t DELETE MOTOCICKLE";
+            graf.FourthLine = "\n\t Please enter the ID deleting motocycle";
+        }
 
+        public void UpdateMotoPage(ref Graf graf)
+        {
+            graf.ThirdLine = "\n\t\t\t CHANGE MOTOCICKLE";
+            graf.FourthLine = "\n\t Please enter the ID Changing motocycle";
+        }
+
+    }
     /// <summary>
     /// Based graf for all pages
     /// </summary>
@@ -59,7 +70,7 @@ namespace hw_12
         public string TwelfthLine { get; set; } = "\n**************************************************************************";
         public string ThirteenthLine { get; set; } = "\n";
         public string StatusLine { get; set; } = "\n";
-
+        //
         public string OutputGraf()
         {
             string stringToOut = FirstLine + SecondLine + ThirdLine + FourthLine +
