@@ -1,0 +1,11 @@
+D:\for git\repos\ITAcademy.HomeWorks\ITAcademy.HomeWorks\less_14_2\less_14_2\bin\Debug\netcoreapp2.0\less_14_2.deps.json
+D:\for git\repos\ITAcademy.HomeWorks\ITAcademy.HomeWorks\less_14_2\less_14_2\bin\Debug\netcoreapp2.0\less_14_2.runtimeconfig.json
+D:\for git\repos\ITAcademy.HomeWorks\ITAcademy.HomeWorks\less_14_2\less_14_2\bin\Debug\netcoreapp2.0\less_14_2.runtimeconfig.dev.json
+D:\for git\repos\ITAcademy.HomeWorks\ITAcademy.HomeWorks\less_14_2\less_14_2\bin\Debug\netcoreapp2.0\less_14_2.dll
+D:\for git\repos\ITAcademy.HomeWorks\ITAcademy.HomeWorks\less_14_2\less_14_2\bin\Debug\netcoreapp2.0\less_14_2.pdb
+D:\for git\repos\ITAcademy.HomeWorks\ITAcademy.HomeWorks\less_14_2\less_14_2\obj\Debug\netcoreapp2.0\less_14_2.csprojAssemblyReference.cache
+D:\for git\repos\ITAcademy.HomeWorks\ITAcademy.HomeWorks\less_14_2\less_14_2\obj\Debug\netcoreapp2.0\less_14_2.csproj.CoreCompileInputs.cache
+D:\for git\repos\ITAcademy.HomeWorks\ITAcademy.HomeWorks\less_14_2\less_14_2\obj\Debug\netcoreapp2.0\less_14_2.AssemblyInfoInputs.cache
+D:\for git\repos\ITAcademy.HomeWorks\ITAcademy.HomeWorks\less_14_2\less_14_2\obj\Debug\netcoreapp2.0\less_14_2.AssemblyInfo.cs
+D:\for git\repos\ITAcademy.HomeWorks\ITAcademy.HomeWorks\less_14_2\less_14_2\obj\Debug\netcoreapp2.0\less_14_2.dll
+D:\for git\repos\ITAcademy.HomeWorks\ITAcademy.HomeWorks\less_14_2\less_14_2\obj\Debug\netcoreapp2.0\less_14_2.pdb
